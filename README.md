@@ -1,23 +1,19 @@
-# form-cadCompleto & form-CadEndereco 🚀 
+# form-cadCompleto 🚀 
 
 ## Índice 🌠
 
 * [Descrição](#descrição)                            
-* [GIF](#GIF)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Principais Funções](#principais-funções)
 * [Referência](#referência)
+* [GIF](#GIF)
 * [Projetos usados de suporte](#Projetos-usados-de-suporte)
 
 ## Descrição 🪐 
 
 Este projeto é um inovador formulário de cadastro que aproveita o CEP (Código de Endereçamento Postal) para preencher automaticamente os dados de endereço do usuário. Com apenas a inserção do CEP, os campos de endereço, cidade e estado são preenchidos de forma instantânea, proporcionando uma experiência fluida e ágil. Essa funcionalidade não apenas economiza tempo, mas também torna o processo de cadastro muito mais prático e eficiente para todos os usuários.
 
-
-## GIF 🌕
-
-![]()
 
 ## Funcionalidades ⭐
 
@@ -56,10 +52,15 @@ Validação: Verifica se o CEP é válido antes de realizar a busca.
 
 > blur: evento que é disparado quando um elemento perde o foco. MDN blur
 
-# Projetos usados de suporte ✨
+## GIF 🌕
 
-* form-Cadendereco
-* Login-Cad
+![img](gif/gif-final.gif)
+
+
+## Projetos usados de suporte ✨
+
+* [form-Cadendereco](https://github.com/Evellincruz/form-Cadendereco)
+* [Login-Cad](https://github.com/Evellincruz/login-cad)
 
 Peguei algumas referências desses projetos, para realizar essa proposta dada pelo professor Leonardo.
 

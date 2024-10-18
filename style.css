@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ddd2ee;
     margin: 0;
     padding: 20px;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 510px;
     margin: auto;
-    background: rgb(218, 207, 235);
+    background: rgb(178, 140, 235);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -27,7 +27,7 @@ input {
     width: 95%;
     padding: 10px;
     margin: 5px 0 20px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(156, 87, 215);
     border-radius: 5px;
 }
  
