@@ -1,8 +1,8 @@
-# form-cadCompleto & form-CadEndereco
+# form-cadCompleto & form-CadEndereco 🚀 
 
-## Índice 
+## Índice 🌠
 
-* [Descrição](#descrição)
+* [Descrição](#descrição)                            
 * [GIF](#GIF)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -10,37 +10,37 @@
 * [Referência](#referência)
 * [Projetos usados de suporte](#Projetos-usados-de-suporte)
 
-## Descrição 
+## Descrição 🪐 
 
 Este projeto é um inovador formulário de cadastro que aproveita o CEP (Código de Endereçamento Postal) para preencher automaticamente os dados de endereço do usuário. Com apenas a inserção do CEP, os campos de endereço, cidade e estado são preenchidos de forma instantânea, proporcionando uma experiência fluida e ágil. Essa funcionalidade não apenas economiza tempo, mas também torna o processo de cadastro muito mais prático e eficiente para todos os usuários.
 
 
-## GIF 
+## GIF 🌕
 
 ![]()
 
-## Funcionalidades 
+## Funcionalidades ⭐
 
 > Campo de CEP: O usuário insere o CEP e, ao perder o foco ou pressionar Enter, os dados de endereço são preenchidos automaticamente.
 
 > Autocompletar: Utiliza uma API para buscar informações de endereço com base no CEP fornecido.
 Validação: Verifica se o CEP é válido antes de realizar a busca.
 
-## Tecnologias Utilizadas 
+## Tecnologias Utilizadas ☄️
 
 * HTML5
 * CSS3
 * JavaScript
 * API de Consulta de CEP (ViaCep)
 
-## Principais Funções 
+## Principais Funções 🛸
 
 * fetch
 * await
 * async
 * focusout
 
-## Referência 
+## Referência 🌌
 
 > fetch: fornece uma interface JavaScript para acessar e manipular partes do pipeline HTTP, como pedidos e respostas. MDN Fetch API
 
@@ -56,7 +56,7 @@ Validação: Verifica se o CEP é válido antes de realizar a busca.
 
 > blur: evento que é disparado quando um elemento perde o foco. MDN blur
 
-# Projetos usados de suporte
+# Projetos usados de suporte ✨
 
 * form-Cadendereco
 * Login-Cad
