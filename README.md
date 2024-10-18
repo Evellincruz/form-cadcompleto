@@ -8,6 +8,7 @@
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Principais Funções](#principais-funções)
 * [Referência](#referência)
+* [Projetos usados de suporte](#Projetos-usados-de-suporte)
 
 ## Descrição 
 
@@ -54,5 +55,12 @@ Validação: Verifica se o CEP é válido antes de realizar a busca.
 > focusout: evento que é disparado quando um elemento perde o foco, após o evento blur. MDN focusout
 
 > blur: evento que é disparado quando um elemento perde o foco. MDN blur
+
+# Projetos usados de suporte
+
+* form-Cadendereco
+* Login-Cad
+
+Peguei algumas referências desses projetos, para realizar essa proposta dada pelo professor Leonardo.
 
 Link do ViaCep:  https://viacep.com.br/

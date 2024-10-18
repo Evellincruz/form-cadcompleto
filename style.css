@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 510px;
     margin: auto;
-    background: white;
+    background: rgb(218, 207, 235);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -24,7 +24,7 @@ label {
 }
  
 input {
-    width: 100%;
+    width: 95%;
     padding: 10px;
     margin: 5px 0 20px;
     border: 1px solid #ccc;
@@ -34,7 +34,7 @@ input {
 button {
     width: 100%;
     padding: 10px;
-    background: #5cb85c;
+    background: #62429b;
     border: none;
     border-radius: 5px;
     color: white;
@@ -42,7 +42,7 @@ button {
 }
  
 button:hover {
-    background: #4cae4c;
+    background: #7069c0;
 }
  
 #message {
